@@ -256,7 +256,7 @@ export default class TableList extends PureComponent {
               >
                 删除
               </Button>
-            </div>
+            </div>   
             <StandardTable
               selectedRows={selectedRows}
               loading={loading}
